@@ -20,6 +20,7 @@ server port = 3000
 - "rimraf": executable that is used to clean the installed node packages in a node based project
 - "ts-node": is Typescript execution engine , it helps for executing TypeScript files without compinling it to Javascript.
 ## APIs enpoints
+### you have to replace the id with your choosen number
 - http://localhost:3000/api/movies: to get All movies
 -  http://localhost:3000/api/movies/:id : to get a specefic movie/
 - http://localhost:3000/api/people : to get all people details
