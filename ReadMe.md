@@ -4,7 +4,7 @@ This a Backend project for fetching movies and people from SWAPI
 server port = 3000
 
 ## Scripts to run
-
+- to install all dependnecies: npm i || yarn
 - to run server : npm run start || npm run start:dev(production mood)
 - to build the project : npm run build
 - to test project : npm run test
